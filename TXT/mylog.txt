@@ -4,3 +4,4 @@
 ZCZC W00 15 L03 Initialize os222 repository
 ZCZC W00 70 L64 Helping a friend with setting up VirtualBox and Debian
 ZCZC W00 110 L02 Tuesday OS ZOOM meeting
+ZCZC W00 150 L09 Reading assignment week 00
