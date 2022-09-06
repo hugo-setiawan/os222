@@ -7,3 +7,4 @@ ZCZC W00 110 L02 Tuesday OS ZOOM meeting
 ZCZC W00 150 L09 Reading assignment week 00
 ZCZC W00 5 L05 Quiz week 00
 ZCZC W00 90 L02 Thursday OS ZOOM meeting
+ZCZC W01 20 L01 Read thru SCELE
