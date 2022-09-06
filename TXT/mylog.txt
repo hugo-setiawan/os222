@@ -9,3 +9,4 @@ ZCZC W00 5 L05 Quiz week 00
 ZCZC W00 90 L02 Thursday OS ZOOM meeting
 ZCZC W01 20 L01 Read thru SCELE
 ZCZC W01 105 L02 Tuesday OS ZOOM meeting
+ZCZC W01 30 L09 Install Debian on VirtualBox
