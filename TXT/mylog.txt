@@ -12,3 +12,4 @@ ZCZC W01 105 L02 Tuesday OS ZOOM meeting
 ZCZC W01 30 L09 Install Debian on VirtualBox
 ZCZC W01 95 L02 Thursday OS ZOOM Meeting
 ZCZC W01 60 L09 Dress up Debian guest
+ZCZC W01 30 L09 Add index and links page
