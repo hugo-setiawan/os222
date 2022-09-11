@@ -6,4 +6,9 @@
 - [LINKS]({{site.baseurl}}/LINKS/)
 - [LOG]({{site.baseurl}}/TXT/mylog.txt)
 
-{{ site.copyright }} --- {{ site.author }}
+<br>
+<hr>
+[HOME (You are here!)]({{site.baseurl}}) [LINKS]({{site.baseurl}}/LINKS/) [LOG]({{site.baseurl}}/TXT/mylog.txt)
+<br>
+<hr>
+
