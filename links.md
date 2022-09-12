@@ -12,6 +12,6 @@ The website allows you to create RegEx, see how it is parsed, and test it agains
 
 <br>
 <hr>
-[HOME]({{site.baseurl}}) [LINKS (You are here!)]({{site.baseurl}}/LINKS/) [LOG]({{site.baseurl}}/TXT/mylog.txt)
+[HOME]({{site.baseurl}}) [**LINKS (You are here!)**]({{site.baseurl}}/LINKS/) [LOG]({{site.baseurl}}/TXT/mylog.txt)
 <br>
 <hr>
