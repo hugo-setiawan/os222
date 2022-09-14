@@ -3,8 +3,7 @@ permalink: LINKS/
 ---
 ### LINKS
 
-<hr>
-[W00](#w00) [W01](#w01) [W02](#w02) [W03]() [W04]() [W05]() [W06]() [W07]() [W08]() [W09]() [W10]()
+[W00](#w00) --- [W01](#w01) --- [W02](#w02) --- [W03](#w03) --- [W04](#w04) --- [W05](#w05) --- [W06](#w06) --- [W07](#w07) --- [W08](#w08) --- [W09](#w09) --- [W10](#w10)
 <hr>
 
 #### W00
@@ -30,6 +29,6 @@ The website allows you to create RegEx, see and understand how it is parsed, and
 
 <br>
 <hr>
-[HOME]({{site.baseurl}}/) [**LINKS (You are here!)**]({{site.baseurl}}/LINKS/) [LOG]({{site.baseurl}}/TXT/mylog.txt)
+[HOME]({{site.baseurl}}/) --- [**LINKS (You are here!)**]({{site.baseurl}}/LINKS/) --- [LOG]({{site.baseurl}}/TXT/mylog.txt)
 <br>
 <hr>
