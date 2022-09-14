@@ -5,6 +5,8 @@
 - [HOME]({{site.baseurl}})
 - [LINKS]({{site.baseurl}}/LINKS/)
 - [LOG]({{site.baseurl}}/TXT/mylog.txt)
+- [PUBKEY](({{site.baseurl}}/TXT/mypubkey.txt)
+GPG key fingerprint: ```988B 8640 27C7 182F```
 
 <br>
 <hr>
