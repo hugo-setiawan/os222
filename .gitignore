@@ -1,0 +1,5 @@
+# ignore local gemfile lock
+Gemfile.lock
+
+# ignore locally built website
+_site/
