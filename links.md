@@ -25,7 +25,18 @@ RegExr is (in my opinion) a great place to learn and practice one's Regular Expr
 The website allows you to create RegEx, see and understand how it is parsed, and test it against your input.
 
 #### W02
-*Coming soon!*
+1. [Chmod Quick Reference](https://quickref.me/chmod)<br>
+This is a great quick reference sheet for learning about Linux's file and directory permission system, its octal notation, as well as how to manipulate them using the *chmod* command. It also has a very useful generator to calculate the octal notation for a certain permission.
+Also, there are some *chmod* usage examples, as well as some common *chmod*s for things such as ```~/.ssh``` permissions (which i personally find very handy and saves a couple of Google searches).
+2. [7 Cryptography Concepts EVERY Developer Should Know](https://www.youtube.com/watch?v=NuyzuNBFWxQ)<br>
+Yet another Fireship video, but this video does a good job at introducing some common yet important terms and concepts within cryptography and cybersecurity.
+Highly recommended to watch, especially when one is totally new to cryptography concepts such as hashes and HMACs.
+3. [Public Key Cryptography: RSA Encryption Algorithm (by Art of the Problem)](https://www.youtube.com/watch?v=wXB-V_Keiu8)<br>
+A great video which explains, in an intuitive and easy manner, the basics of asymmetric cryptography. 
+I personally believe the video explains asymmetric cryptography in an interesting manner using a few intuitive examples, which should help one understand.
+The later part of the video dives into the nitty gritty details of the RSA algorithm, if you are interested in that.
+
+*More coming soon!*
 
 <br>
 <hr>
