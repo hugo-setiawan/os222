@@ -20,3 +20,5 @@ ZCZC W02 110 L02 Tuesday OS ZOOM meeting (W02)
 ZCZC W02 10 L09 Download and customize myscript
 ZCZC W02 45 L28 Configure Jekyll for local build
 ZCZC W02 20 L09 Update links.md
+ZCZC W02 115 L02 Thursday OS ZOOM meeting (W02)
+ZCZC W02 30 L09 Find and update links
