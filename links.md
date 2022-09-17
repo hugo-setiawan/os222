@@ -23,6 +23,9 @@ Although this video doesn't dive very deep into RegEx syntax, I still think it i
 Notice how in Fireship's video (specifically [1:09](https://youtu.be/sXQxhojSdZM?t=69)) they use some sort of tool to test out RegEx-es. Well, that tool is called RegExr! 
 RegExr is (in my opinion) a great place to learn and practice one's Regular Expression (RegEx) skills.
 The website allows you to create RegEx, see and understand how it is parsed, and test it against your input.
+3. [Markdown Cheatsheet (by Adam Pritchard)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
+A great quick reference sheet about Markdown, especially important since this semester there is more than one subject that uses Markdown.
+It gives some syntax examples, as well as how they look after being rendered.
 
 #### W02
 1. [Chmod Quick Reference](https://quickref.me/chmod)<br>
