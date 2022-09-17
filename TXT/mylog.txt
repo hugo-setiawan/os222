@@ -24,3 +24,4 @@ ZCZC W02 115 L02 Thursday OS ZOOM meeting (W02)
 ZCZC W02 30 L09 Find and update links
 ZCZC W02 70 L09 Reading assignment week 02
 ZCZC W02 60 L09 Review links
+ZCZC W02 10 L05 Quiz week 02
