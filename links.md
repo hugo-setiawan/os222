@@ -39,10 +39,24 @@ A great video which explains, in an intuitive and easy manner, the basics of asy
 I personally believe the video explains asymmetric cryptography in an interesting manner using a few intuitive examples, which should help one understand.
 The later part of the video dives into the nitty gritty details of the RSA algorithm, if you are interested in that.
 
-*More coming soon!*
+#### W03
+1. [Linux Directories Explained in 100 Seconds (by Fireship)](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+Yes, another Fireship video, but I think this video does a great job at explaining how devices and files are arranged in the Filesystem Hierarchy Standard (FHS) used by Linux.
+It gives a detailed explanation of what each of the main directories' functions are as well as their contents.
+2. [The Linux File System...for humans (by Engineer Man)](https://www.youtube.com/watch?v=UFIoRLqhFpo)<br>
+If the previous video linked was a quick dive, this video is a deeper dive into the FHS structure used by Linux.
+It explains the concept of pseudofiles (which may represent files and other things such as devices and pseudo-devices) as well as what each directory is supposed to do or contain.
+3. [The Linux Storage Stack Diagram](https://www.thomas-krenn.com/en/wiki/File:Linux-storage-stack-diagram_v4.10.png)<br>
+Ever wondered about how Linux handles calls related to storage access, as well as the various subsystems and parts used? Well look no further than the Linux Storage Stack Diagram!
+Albeit the image is a bit intimidating and daunting at first sight, if you are interested in what it takes to handle storage within Linux, this is one easy way to visualize and figure it out.
+4. [File Systems 2: File Allocation (by Jacob Schrum)](https://www.youtube.com/watch?v=EbHMDZTVrJg)<br>
+This video describes the three main forms of of block-based file allocation in a visual manner. 
+I think this video does a great job at explaining the allocation methods, as well as their advantages and disadvantages.
+
+***More coming soon!***
 
 <br>
 <hr>
-[HOME]({{site.baseurl}}/) --- [**LINKS (You are here!)**]({{site.baseurl}}/LINKS/) --- [LOG]({{site.baseurl}}/TXT/mylog.txt)
+[HOME]({{site.baseurl}}/) --- [REPOSITORY]({{site.github.repository_url}}) --- [**LINKS (You are here!)**]({{site.baseurl}}/LINKS/) --- [LOG]({{site.baseurl}}/TXT/mylog.txt)
 <br>
 <hr>
