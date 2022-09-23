@@ -34,3 +34,4 @@ ZCZC W03 110 L00 General: thursday OS offline class (W03)
 ZCZC W03 20 L09 Add and mount extra virtual disk, run scripts
 ZCZC W03 10 L27 Generate new RSA SSH key
 ZCZC W03 10 L05 Quiz week 03
+ZCZC W03 40 L09 Find and update links
