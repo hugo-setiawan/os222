@@ -31,3 +31,4 @@ ZCZC W03 90 L02 Tuesday OS ZOOM meeting (W03)
 ZCZC W03 45 L24 Continue development of os-tarball-checker
 ZCZC W03 35 L64 Helping a friend with OS assignments
 ZCZC W03 110 L00 General: thursday OS offline class (W03)
+ZCZC W03 20 L09 Add and mount extra virtual disk, run scripts
