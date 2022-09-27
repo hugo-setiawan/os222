@@ -40,3 +40,4 @@ ZCZC W03 40 L09 Review links
 ZCZC W03 90 L09 Reading assignment week 03
 ZCZC W04 15 L01 Read thru SCELE
 ZCZC W04 100 L02 Tuesday OS ZOOM meeting (W04)
+ZCZC W04 15 L25 Do C-language and Makefile pop quiz
