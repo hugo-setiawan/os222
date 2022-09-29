@@ -41,3 +41,6 @@ ZCZC W03 90 L09 Reading assignment week 03
 ZCZC W04 15 L01 Read thru SCELE
 ZCZC W04 100 L02 Tuesday OS ZOOM meeting (W04)
 ZCZC W04 15 L25 Do C-language and Makefile pop quiz
+ZCZC W04 10 L25 Do W04 Quiz 02 (C print formatting)
+ZCZC W04 100 L00 General: thursday OS offline class (W04)
+ZCZC W04 15 L09 Run W04 scripts (compile TLPI)
