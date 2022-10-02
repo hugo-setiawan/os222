@@ -47,3 +47,4 @@ ZCZC W04 15 L09 Run W04 scripts (compile TLPI)
 ZCZC W04 70 L09 Reading assignment week 04
 ZCZC W04 10 L05 Quiz week 04
 ZCZC W04 25 L09 Find and update links
+ZCZC W04 25 L09 Review links
