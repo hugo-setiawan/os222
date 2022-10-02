@@ -53,6 +53,14 @@ Albeit the image is a bit intimidating and daunting at first sight, if you are i
 This video describes the three main forms of of block-based file allocation in a visual manner. 
 I think this video does a great job at explaining the allocation methods, as well as their advantages and disadvantages.
 
+#### W04
+1. [you will never ask about pointers again after watching this video (by Low Level Learning)](https://www.youtube.com/watch?v=2ybLD6_2gKM) <br>
+This video helps one to understand pointers in a simple manner. It tries to do that by decomposing complex, intimidating expressions such as `int* pX = &X;` into simple, understandable English. 
+Besides this video, I also recommend viewing other videos made by the same channel to get a good grasp of low level concepts and programming. 
+2. [Learn Makefiles (makefiletutorial.com)](https://makefiletutorial.com/) <br>
+This is a great resource for learning all about Makefiles! It starts with the simplest Makefile syntax, then it gradually expands to cover more 'fancy' syntaxes. 
+In doing so, it helps in learning Makefiles without being too overwhelmed by it.
+
 ***More coming soon!***
 
 <br>
