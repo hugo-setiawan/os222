@@ -48,3 +48,6 @@ ZCZC W04 70 L09 Reading assignment week 04
 ZCZC W04 10 L05 Quiz week 04
 ZCZC W04 25 L09 Find and update links
 ZCZC W04 25 L09 Review links
+ZCZC W05 15 L01 Read thru SCELE
+ZCZC W05 10 L22 Create folder in zzzSHARE (pop quiz 1)
+ZCZC W05 100 L02 Tuesday OS ZOOM meeting (W05)
