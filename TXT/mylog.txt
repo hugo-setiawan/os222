@@ -51,3 +51,6 @@ ZCZC W04 25 L09 Review links
 ZCZC W05 15 L01 Read thru SCELE
 ZCZC W05 10 L22 Create folder in zzzSHARE (pop quiz 1)
 ZCZC W05 100 L02 Tuesday OS ZOOM meeting (W05)
+ZCZC W05 30 L09 Figuring out low (RAM) can i boot my VM?
+ZCZC W05 100 L00 General: thursday OS offline class (W05)
+ZCZC W05 20 L09 Do tarball memory assignment
