@@ -61,6 +61,19 @@ Besides this video, I also recommend viewing other videos made by the same chann
 This is a great resource for learning all about Makefiles! It starts with the simplest Makefile syntax, then it gradually expands to cover more 'fancy' syntaxes. 
 In doing so, it helps in learning Makefiles without being too overwhelmed by it.
 
+#### W05
+> Since we're entering the last week before UTS, i'd like to wish everyone a happy UTS! I wish you all the best!
+
+1. [Virtual Memory in Operating System (by geeksforgeeks)](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>
+GeeksForGeeks did a great job explaining the key concepts used in a Virtual Memory system. Several key concepts required are explained within this article, starting from Demand Paging, Swapping, up to Thrashing.
+For a quick guide and/or refresher, i recommend reading this article.
+2. [What is virtual memory? – Gary explains (by Android Authority)](https://www.youtube.com/watch?v=2quKyPnUShQ) <br>
+This video does a good job at explaining several key concepts involved in a computer's virtual memory. Concepts such as the MMU, virtual addresses, paging, etc are explained using simple to understand diagrams.
+Also, there is a great explanation about how virtual addresses are translated to physical memory addresses at [6:56](https://youtu.be/2quKyPnUShQ?t=416).
+3. [Red Hat Introduction to System Administration: Virtual Memory](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/4/html/introduction_to_system_administration/s1-memory-concepts) <br>
+The relevant parts of this long document is in part [4.3](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/4/html/introduction_to_system_administration/s1-memory-concepts) to [4.5](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/4/html/introduction_to_system_administration/s1-memory-concepts-perf).
+It's quite a wordy document, but it gives a *high-level* explanation of Virtual Memory, why Virtual Memory is needed, and it's performance implications. Recommended to understand the background behind virtual memory as well as how it is viewed from a higher, non-technical level.
+
 ***More coming soon!***
 
 <br>
