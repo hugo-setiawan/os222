@@ -56,3 +56,7 @@ ZCZC W05 100 L00 General: thursday OS offline class (W05)
 ZCZC W05 20 L09 Do tarball memory assignment
 ZCZC W05 20 L09 Redo tarball memory assignment on low ram machine
 ZCZC W05 60 L09 Find and update links
+ZCZC W05 30 L09 Review links
+ZCZC W05 60 L09 Reading assignment week 05 preparation for quiz
+ZCZC W05 10 L05 Quiz01 week 05
+ZCZC W05 10 L25 Do W05 Quiz 02 (C)

@@ -10,3 +10,7 @@ ZCZC W03 joshuanadeak
 ZCZC W04 Kenzo911
 ZCZC W04 luluorv
 ZCZC W04 marcellinuselbert
+# Week 05
+ZCZC W05 matthew-rizky-hartadi
+ZCZC W05 michaelsinanta
+ZCZC W05 mnabielap
