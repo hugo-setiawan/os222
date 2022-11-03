@@ -60,3 +60,8 @@ ZCZC W05 30 L09 Review links
 ZCZC W05 60 L09 Reading assignment week 05 preparation for quiz
 ZCZC W05 10 L05 Quiz01 week 05
 ZCZC W05 10 L25 Do W05 Quiz 02 (C)
+ZCZC W06 15 L01 Read thru SCELE
+ZCZC W06 110 L00 General: tuesday OS offline class (W06)
+ZCZC W06 20 L09 Do all pop quiz W06
+ZCZC W06 5 L05 Quiz02 week 06
+ZCZC W06 110 L00 General: thursday OS offline class (W06)
