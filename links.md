@@ -74,6 +74,14 @@ Also, there is a great explanation about how virtual addresses are translated to
 The relevant parts of this long document is in part [4.3](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/4/html/introduction_to_system_administration/s1-memory-concepts) to [4.5](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/4/html/introduction_to_system_administration/s1-memory-concepts-perf).
 It's quite a wordy document, but it gives a *high-level* explanation of Virtual Memory, why Virtual Memory is needed, and it's performance implications. Recommended to understand the background behind virtual memory as well as how it is viewed from a higher, non-technical level.
 
+#### W06
+1. [Creating new processes with fork()! (by Jacob Sorber)](https://www.youtube.com/watch?v=ss1-REMJ9GA) <br>
+This video explains about the creation of processes with the `fork()` syscall, as well as the theories behind it, such as some basic terminology, the process *"family"* tree, as well as PID and PPIDs. Recommended to get a basic grasp on the concepts.
+If you have spare time (~~probably not~~), i recommend watching the entire [Programming with Processes playlist](https://www.youtube.com/playlist?list=PL9IEJIKnBJjFNNfpY6fHjVzAwtgRYjhPw) as it dives into the other concepts which are closely related to processes and threads. 
+2. [Difference Between Process and Thread - Georgia Tech - Advanced Operating Systems](https://www.youtube.com/watch?v=O3EyzlZxx3g) <br>
+Were you ever confused about the difference between processes and threads? Worry no more, as this video does a great job at explaining each concept and their key differences.
+
+
 ***More coming soon!***
 
 <br>
