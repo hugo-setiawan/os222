@@ -65,3 +65,7 @@ ZCZC W06 110 L00 General: tuesday OS offline class (W06)
 ZCZC W06 20 L09 Do all pop quiz W06
 ZCZC W06 5 L05 Quiz02 week 06
 ZCZC W06 110 L00 General: thursday OS offline class (W06)
+ZCZC W06 50 L09 Reading assignment week 06
+ZCZC W06 10 L05 Quiz01 week 06
+ZCZC W06 25 L09 Find and update links
+ZCZC W06 25 L09 Review links
