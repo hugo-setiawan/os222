@@ -81,6 +81,16 @@ If you have spare time (~~probably not~~), i recommend watching the entire [Prog
 2. [Difference Between Process and Thread - Georgia Tech - Advanced Operating Systems](https://www.youtube.com/watch?v=O3EyzlZxx3g) <br>
 Were you ever confused about the difference between processes and threads? Worry no more, as this video does a great job at explaining each concept and their key differences.
 
+#### W07
+1. [Safety and Speed Issues with Threads. (by Jacob Sorber)](https://www.youtube.com/watch?v=9axu8CUvOKY) <br>
+Another great video from the great [Programming with Processes playlist](https://www.youtube.com/playlist?list=PL9IEJIKnBJjFNNfpY6fHjVzAwtgRYjhPw), this video explains when to use threads as well as common pitfalls regarding the use of threads, like race conditions that happen due to the lack of synchronization.
+It also some common techniques used to handle those issues, such as using atomic operations and **mut**ual **ex**clusion (mutex) locks.
+2. [What is a semaphore? How do they work? (by Jacob Sorber)](https://www.youtube.com/watch?v=ukM_zzrIeXs) <br>
+Another [Programming with Processes](https://www.youtube.com/playlist?list=PL9IEJIKnBJjFNNfpY6fHjVzAwtgRYjhPw) video, but this one explains the concept of semaphores, some key differences (vs mutex locks especially), and its usage in synchronization.
+It also demonstrates its usage in a program which utilizes shared memory, which needs some synchronization using tools like semaphores.
+3. [Mutex vs. Semaphores (by Niall Cooling of feabhas.com)](https://blog.feabhas.com/2009/09/mutex-vs-semaphores-%e2%80%93-part-1-semaphores/) <br>
+This three part blog ([pt. 2](https://blog.feabhas.com/2009/09/mutex-vs-semaphores-%e2%80%93-part-2-the-mutex/), [pt.3](https://blog.feabhas.com/2009/10/mutex-vs-semaphores-%e2%80%93-part-3-final-part-mutual-exclusion-problems/)) does an excellent job in explaining about semaphores, mutexes, and associated problems including deadlocks.
+It dives deep into the history and thinking behind each tool and how they were made to be used. It also addresses a common misconception regarding the differences between mutexes and semaphores.
 
 ***More coming soon!***
 
