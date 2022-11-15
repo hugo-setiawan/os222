@@ -77,3 +77,5 @@ ZCZC W07 60 L09 Find and update links
 ZCZC W07 110 L00 General: thursday OS offline class (W06)
 ZCZC W07 80 L09 Reading assignment week 07
 ZCZC W07 35 L09 Review links
+ZCZC W08 15 L01 Read thru SCELE
+ZCZC W08 10 L09 Scripts week 08
