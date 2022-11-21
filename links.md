@@ -92,6 +92,14 @@ It also demonstrates its usage in a program which utilizes shared memory, which 
 This three part blog ([pt. 2](https://blog.feabhas.com/2009/09/mutex-vs-semaphores-%e2%80%93-part-2-the-mutex/), [pt.3](https://blog.feabhas.com/2009/10/mutex-vs-semaphores-%e2%80%93-part-3-final-part-mutual-exclusion-problems/)) does an excellent job in explaining about semaphores, mutexes, and associated problems including deadlocks.
 It dives deep into the history and thinking behind each tool and how they were made to be used. It also addresses a common misconception regarding the differences between mutexes and semaphores.
 
+#### W08
+1. [CPU Scheduling Basics (by Jacob Sorber)](https://www.youtube.com/watch?v=Jkmy2YLUbUY) <br>
+Another video by Jacob Sorber which explains about CPU scheduling and it's key concepts. It also has a couple of useful examples explained.
+2. [Linux From Scratch 11.0 (LFS) Indonesia (by Sxurce Cxde ID)](https://www.youtube.com/watch?v=5m3jE0RUbUk&list=PL0gOYtekW0nvpS6LdyG9IgJm_2r5ldWbP) <br>
+Need a *Bahasa Indonesia* general guide to LFS? This is a great one, albeit its for an earlier version, and its also a bit long and *bertele-tele*.
+3. [Build a LinuxFromScratch System Part 1: Overview (by Write your own operating system)](https://www.youtube.com/watch?v=IXA0GNTLf_Q) <br>
+Want a theoretical overview on LFS, and why you do LFS the way you do it? This video provides an overview regarding Linux, especially within the context of LFS, as well as explains why things in LFS are done the way they are.
+
 ***More coming soon!***
 
 <br>
