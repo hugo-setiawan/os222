@@ -100,7 +100,7 @@ Need a *Bahasa Indonesia* general guide to LFS? This is a great one, albeit its 
 3. [Build a LinuxFromScratch System Part 1: Overview (by Write your own operating system)](https://www.youtube.com/watch?v=IXA0GNTLf_Q) <br>
 Want a theoretical overview on LFS, and why you do LFS the way you do it? This video provides an overview regarding Linux, especially within the context of LFS, as well as explains why things in LFS are done the way they are.
 
-***More coming soon!***
+***More coming soon! (well no more since bye-bye os)***
 
 <br>
 <hr>
