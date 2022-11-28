@@ -89,3 +89,10 @@ ZCZC W08 5 L09 Popquiz2 week 08
 ZCZC W08 120 L64 Helping a friend with LFS Ch. 1-5
 ZCZC W08 20 L09 Find and update links
 ZCZC W08 20 L09 Review links
+ZCZC W09 15 L01 Read thru SCELE
+ZCZC W09 10 L09 Scripts week 08
+ZCZC W09 120 L09 LFS Chapters 6-7 completed
+ZCZC W09 180 L64 Helping friend(s) with LFS Ch. 6-7
+ZCZC W09 5 L09 Popquiz week 09 (cleaning)
+ZCZC W09 5 L05 Quiz02 week 09
+ZCZC W09 10 L05 Quiz01 week 09
